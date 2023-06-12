@@ -1,6 +1,6 @@
-#Create By: MUMIT ISLAM HIMU
-#FaceBook: Mumit Islam
-#GitHub: https://github.com/MUMIT-404-CYBER
+#Create By: Rodel C Tarrayo Jr.
+#FaceBook: Rodel C Tarrayo Jr
+#GitHub: https://github.com/HAXOR-BD1
 #---------------------------------------------------------------------------#
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
