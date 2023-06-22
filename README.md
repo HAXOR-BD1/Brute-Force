@@ -1,7 +1,7 @@
-# NSC FACEBOOK CLONING TOOL
+# DEATH-BARON Facebook Cracker
 
-git clone https://github.com/HAXOR-BD1/NSC
+git clone https://github.com/HAXOR-BD1/Brute-Force
 
-cd NSC
+cd Brute-Force
 
-python NSC.py
+python3 Crack.py
